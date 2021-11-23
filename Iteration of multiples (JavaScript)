@@ -1,0 +1,19 @@
+//JavaScript
+
+//Iteration of multiples of 7 up to 100
+
+for (let i = 7; i <= 100; i+= 7){
+  console.log(i);
+}
+
+//Iteration of multiples of 8 up to 200
+
+for (let j = 8; j <= 200; j+= 8){
+  console.log(j);
+}
+
+//Iteration of multiples of 9 up to 300
+
+for (let k = 9; k <= 300; k+= 9){
+  console.log(k);
+}
